@@ -8,7 +8,7 @@
 	<li>Material del curso</li>
 	<li>Programa de estudios</li>
 	<li>Especificación de proyecto y trabajos</li>
-
+</ul>
 
 <h2>Los alumnos inscritos a este curso son:</h2>
 <ul>
