@@ -1,5 +1,0 @@
-CREATE USER 'nombre_usuario'@'%' IDENTIFIED BY 'tu_contrasena';
-
-GRANT ALL PRIVILEGES ON * . * TO 'nombre_usuario'@'localhost';
-
-FLUSH PRIVILEGES;
